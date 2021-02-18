@@ -12,5 +12,3 @@ you can see my PortFoilo click [here][df1]
    [df1]: <https://seungha-o.github.io/PortFolio/>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungha-o&theme=algolia&show_icons=true)](https://github.com/seungha-o/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungha-o&theme=algolia&layout=compact)](https://github.com/seungha-o/github-readme-stats)
