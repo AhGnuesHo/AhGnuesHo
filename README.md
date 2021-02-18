@@ -4,6 +4,8 @@
 Web developer likes to findingd new ways
 
 you can see my PortFoilo click [here][df1]
-  [df1]: <https://seungha-o.github.io/PortFolio/>
 #### Major
 - learing Computer Science in university since 2016
+
+   [df1]: <https://seungha-o.github.io/PortFolio/>
+  
