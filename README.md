@@ -15,8 +15,8 @@ you can see my PortFoilo click [here][df1]
 
 
 ### Message from me with love💪
-![chat_svg](https://github.com/AhGnuesHo/seungha-o/blob/main/chat.svg)
+![chat_svg](https://github.com/AhGnuesHo/AhGnuesHo/blob/main/chat.svg)
 
 ### Watch my contribution graph get eaten by the snake🐍
-![snake svg](https://github.com/AhGnuesHo/seungha-o/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/AhGnuesHo/AhGnuesHo/blob/output/github-contribution-grid-snake.svg)
 
