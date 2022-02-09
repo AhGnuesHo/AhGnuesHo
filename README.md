@@ -15,5 +15,5 @@ you can see my PortFoilo click [here][df1]
 
 
 ### Message from me with love💪
-![chat_svg](https://github.com/seungha-o/seungha-o/blob/master/chat.svg)
+![chat_svg](https://github.com/AhGnuesHo/seungha-o/blob/master/chat.svg)
 
