@@ -6,4 +6,3 @@
 
 ### Watch my contribution graph get eaten by the snake🐍
 ![snake svg](https://github.com/AhGnuesHo/AhGnuesHo/blob/output/github-contribution-grid-snake.svg)
-
