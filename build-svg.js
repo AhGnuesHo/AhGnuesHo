@@ -17,16 +17,7 @@ const emojis = {
   '50d': '🌫'
 }
 
-// Time working at PlanetScale
-function convertTZ(date, tzString) {
-    return new Date((typeof date === "string" ? new Date(date) : date).toLocaleString("en-US", {timeZone: tzString}));   
-}
-const today = convertTZ(new Date(), "Asia/Seoul");
-const todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(today);
 
-const psTime = formatDistance(new Date(2022, 02, 09), today, {
-  addSuffix: false
-})
 
 // Today's weather
 weather.setLang('en')
@@ -50,8 +41,8 @@ weather.getWeatherOneCall(function (err, data) {
     data = data.replace('{degF}', degF)
     data = data.replace('{degC}', degC)
     data = data.replace('{weatherEmoji}', emojis[icon])
-    data = data.replace('{psTime}', psTime)
-    data = data.replace('{todayDay}', todayDay)
+
+
 
     data = fs.writeFile('chat.svg', data, (err) => {
       if (err) {
