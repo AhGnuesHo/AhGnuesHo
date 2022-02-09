@@ -3,6 +3,6 @@
 ### Message from me with love💪
 ![chat_svg](https://github.com/AhGnuesHo/AhGnuesHo/blob/main/chat.svg)
 ![AhGnuesHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhGnuesHo&show_icons=true&theme=cobalt2)[![AhGnuesHo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AhGnuesHo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/AhGnuesHo)
-![trophy](https://github-profile-trophy.vercel.app/?username=본인ID)
+![trophy](https://github-profile-trophy.vercel.app/?username=AhGnuesHo)
 ### Watch my contribution graph get eaten by the snake🐍
 ![snake svg](https://github.com/AhGnuesHo/AhGnuesHo/blob/output/github-contribution-grid-snake.svg)
