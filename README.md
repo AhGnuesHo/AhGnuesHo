@@ -1,13 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungha-o&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Top Repositories
-<a href="https://github.com/AhGnuesHo/TIL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AhGnuesHo&repo=TIL&theme=buefy" />
-</a>
-<a href="https://github.com/AhGnuesHo/algorithmPrac">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AhGnuesHo&repo=algorithmPrac&theme=buefy" />
-</a>
-
 ### Message from me with love💪
 ![chat_svg](https://github.com/AhGnuesHo/AhGnuesHo/blob/main/chat.svg)
 
